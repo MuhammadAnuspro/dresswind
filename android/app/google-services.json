@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350841493755",
+    "project_id": "dresswind",
+    "storage_bucket": "dresswind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350841493755:android:4c12455450d5a6be84785e",
+        "android_client_info": {
+          "package_name": "com.example.dresswind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350841493755-svfmhvrv8abuua8q6odeuk1d84oe5987.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0I8kNmjPclV_ABePCQjSEpPjRPWtpfbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350841493755-svfmhvrv8abuua8q6odeuk1d84oe5987.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
